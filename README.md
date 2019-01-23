@@ -11,6 +11,10 @@ Instantly share your R snippets.
 
 使用方法：在R studio中加载GO和KEGG.R，根据注释选择对应的代码块并执行
 
+## WGCNA分析代码
+WGCNA分析代码放在word文件里，使用时copy调用；
+
+
 ## Github 入门
 
 推荐（看一个就行）
